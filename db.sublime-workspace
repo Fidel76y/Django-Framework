@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "movies/settings.py",
+			"settings":
+			{
+				"buffer_size": 3238,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAACmDAAAIiIiCkRqYW5nbyBzZXR0aW5ncyBmb3IgbW92aWVzIHByb2plY3QuCgpHZW5lcmF0ZWQgYnkgJ2RqYW5nby1hZG1pbiBzdGFydHByb2plY3QnIHVzaW5nIERqYW5nbyA1LjAuMy4KCkZvciBtb3JlIGluZm9ybWF0aW9uIG9uIHRoaXMgZmlsZSwgc2VlCmh0dHBzOi8vZG9jcy5kamFuZ29wcm9qZWN0LmNvbS9lbi81LjAvdG9waWNzL3NldHRpbmdzLwoKRm9yIHRoZSBmdWxsIGxpc3Qgb2Ygc2V0dGluZ3MgYW5kIHRoZWlyIHZhbHVlcywgc2VlCmh0dHBzOi8vZG9jcy5kamFuZ29wcm9qZWN0LmNvbS9lbi81LjAvcmVmL3NldHRpbmdzLwoiIiIKCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKIyBCdWlsZCBwYXRocyBpbnNpZGUgdGhlIHByb2plY3QgbGlrZSB0aGlzOiBCQVNFX0RJUiAvICdzdWJkaXInLgpCQVNFX0RJUiA9IFBhdGgoX19maWxlX18pLnJlc29sdmUoKS5wYXJlbnQucGFyZW50CgoKIyBRdWljay1zdGFydCBkZXZlbG9wbWVudCBzZXR0aW5ncyAtIHVuc3VpdGFibGUgZm9yIHByb2R1Y3Rpb24KIyBTZWUgaHR0cHM6Ly9kb2NzLmRqYW5nb3Byb2plY3QuY29tL2VuLzUuMC9ob3d0by9kZXBsb3ltZW50L2NoZWNrbGlzdC8KCiMgU0VDVVJJVFkgV0FSTklORzoga2VlcCB0aGUgc2VjcmV0IGtleSB1c2VkIGluIHByb2R1Y3Rpb24gc2VjcmV0IQpTRUNSRVRfS0VZID0gJ2RqYW5nby1pbnNlY3VyZS14YSE3NSZkZl4hMiV1bjd5dGdvYipvX155KUB4cDE3bWR5YmZmeCM4KnAwKmdoJV8pIScKCiMgU0VDVVJJVFkgV0FSTklORzogZG9uJ3QgcnVuIHdpdGggZGVidWcgdHVybmVkIG9uIGluIHByb2R1Y3Rpb24hCkRFQlVHID0gVHJ1ZQoKQUxMT1dFRF9IT1NUUyA9IFtdCgoKIyBBcHBsaWNhdGlvbiBkZWZpbml0aW9uCgpJTlNUQUxMRURfQVBQUyA9IFsKICAgICdkamFuZ28uY29udHJpYi5hZG1pbicsCiAgICAnZGphbmdvLmNvbnRyaWIuYXV0aCcsCiAgICAnZGphbmdvLmNvbnRyaWIuY29udGVudHR5cGVzJywKICAgICdkamFuZ28uY29udHJpYi5zZXNzaW9ucycsCiAgICAnZGphbmdvLmNvbnRyaWIubWVzc2FnZXMnLAogICAgJ2RqYW5nby5jb250cmliLnN0YXRpY2ZpbGVzJywKICAgICdwbGF5Z3JvdW5kJwpdCgpNSURETEVXQVJFID0gWwogICAgJ2RqYW5nby5taWRkbGV3YXJlLnNlY3VyaXR5LlNlY3VyaXR5TWlkZGxld2FyZScsCiAgICAnZGphbmdvLmNvbnRyaWIuc2Vzc2lvbnMubWlkZGxld2FyZS5TZXNzaW9uTWlkZGxld2FyZScsCiAgICAnZGphbmdvLm1pZGRsZXdhcmUuY29tbW9uLkNvbW1vbk1pZGRsZXdhcmUnLAogICAgJ2RqYW5nby5taWRkbGV3YXJlLmNzcmYuQ3NyZlZpZXdNaWRkbGV3YXJlJywKICAgICdkamFuZ28uY29udHJpYi5hdXRoLm1pZGRsZXdhcmUuQXV0aGVudGljYXRpb25NaWRkbGV3YXJlJywKICAgICdkamFuZ28uY29udHJpYi5tZXNzYWdlcy5taWRkbGV3YXJlLk1lc3NhZ2VNaWRkbGV3YXJlJywKICAgICdkamFuZ28ubWlkZGxld2FyZS5jbGlja2phY2tpbmcuWEZyYW1lT3B0aW9uc01pZGRsZXdhcmUnLApdCgpST09UX1VSTENPTkYgPSAnbW92aWVzLnVybHMnCgpURU1QTEFURVMgPSBbCiAgICB7CiAgICAgICAgJ0JBQ0tFTkQnOiAnZGphbmdvLnRlbXBsYXRlLmJhY2tlbmRzLmRqYW5nby5EamFuZ29UZW1wbGF0ZXMnLAogICAgICAgICdESVJTJzogW10sCiAgICAgICAgJ0FQUF9ESVJTJzogVHJ1ZSwKICAgICAgICAnT1BUSU9OUyc6IHsKICAgICAgICAgICAgJ2NvbnRleHRfcHJvY2Vzc29ycyc6IFsKICAgICAgICAgICAgICAgICdkamFuZ28udGVtcGxhdGUuY29udGV4dF9wcm9jZXNzb3JzLmRlYnVnJywKICAgICAgICAgICAgICAgICdkamFuZ28udGVtcGxhdGUuY29udGV4dF9wcm9jZXNzb3JzLnJlcXVlc3QnLAogICAgICAgICAgICAgICAgJ2RqYW5nby5jb250cmliLmF1dGguY29udGV4dF9wcm9jZXNzb3JzLmF1dGgnLAogICAgICAgICAgICAgICAgJ2RqYW5nby5jb250cmliLm1lc3NhZ2VzLmNvbnRleHRfcHJvY2Vzc29ycy5tZXNzYWdlcycsCiAgICAgICAgICAgIF0sCiAgICAgICAgfSwKICAgIH0sCl0KCldTR0lfQVBQTElDQVRJT04gPSAnbW92aWVzLndzZ2kuYXBwbGljYXRpb24nCgoKIyBEYXRhYmFzZQojIGh0dHBzOi8vZG9jcy5kamFuZ29wcm9qZWN0LmNvbS9lbi81LjAvcmVmL3NldHRpbmdzLyNkYXRhYmFzZXMKCkRBVEFCQVNFUyA9IHsKICAgICdkZWZhdWx0JzogewogICAgICAgICdFTkdJTkUnOiAnZGphbmdvLmRiLmJhY2tlbmRzLnNxbGl0ZTMnLAogICAgICAgICdOQU1FJzogQkFTRV9ESVIgLyAnZGIuc3FsaXRlMycsCiAgICB9Cn0KCgojIFBhc3N3b3JkIHZhbGlkYXRpb24KIyBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vNS4wL3JlZi9zZXR0aW5ncy8jYXV0aC1wYXNzd29yZC12YWxpZGF0b3JzCgpBVVRIX1BBU1NXT1JEX1ZBTElEQVRPUlMgPSBbCiAgICB7CiAgICAgICAgJ05BTUUnOiAnZGphbmdvLmNvbnRyaWIuYXV0aC5wYXNzd29yZF92YWxpZGF0aW9uLlVzZXJBdHRyaWJ1dGVTaW1pbGFyaXR5VmFsaWRhdG9yJywKICAgIH0sCiAgICB7CiAgICAgICAgJ05BTUUnOiAnZGphbmdvLmNvbnRyaWIuYXV0aC5wYXNzd29yZF92YWxpZGF0aW9uLk1pbmltdW1MZW5ndGhWYWxpZGF0b3InLAogICAgfSwKICAgIHsKICAgICAgICAnTkFNRSc6ICdkamFuZ28uY29udHJpYi5hdXRoLnBhc3N3b3JkX3ZhbGlkYXRpb24uQ29tbW9uUGFzc3dvcmRWYWxpZGF0b3InLAogICAgfSwKICAgIHsKICAgICAgICAnTkFNRSc6ICdkamFuZ28uY29udHJpYi5hdXRoLnBhc3N3b3JkX3ZhbGlkYXRpb24uTnVtZXJpY1Bhc3N3b3JkVmFsaWRhdG9yJywKICAgIH0sCl0KCgojIEludGVybmF0aW9uYWxpemF0aW9uCiMgaHR0cHM6Ly9kb2NzLmRqYW5nb3Byb2plY3QuY29tL2VuLzUuMC90b3BpY3MvaTE4bi8KCkxBTkdVQUdFX0NPREUgPSAnZW4tdXMnCgpUSU1FX1pPTkUgPSAnVVRDJwoKVVNFX0kxOE4gPSBUcnVlCgpVU0VfVFogPSBUcnVlCgoKIyBTdGF0aWMgZmlsZXMgKENTUywgSmF2YVNjcmlwdCwgSW1hZ2VzKQojIGh0dHBzOi8vZG9jcy5kamFuZ29wcm9qZWN0LmNvbS9lbi81LjAvaG93dG8vc3RhdGljLWZpbGVzLwoKU1RBVElDX1VSTCA9ICdzdGF0aWMvJwoKIyBEZWZhdWx0IHByaW1hcnkga2V5IGZpZWxkIHR5cGUKIyBodHRwczovL2RvY3MuZGphbmdvcHJvamVjdC5jb20vZW4vNS4wL3JlZi9zZXR0aW5ncy8jZGVmYXVsdC1hdXRvLWZpZWxkCgpERUZBVUxUX0FVVE9fRklFTEQgPSAnZGphbmdvLmRiLm1vZGVscy5CaWdBdXRvRmllbGQnCgAAAAAAAAAApgwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ask/project/movies",
+		"/home/ask/project/movies/movies"
+	],
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "movies/settings.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "db.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
